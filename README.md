@@ -66,8 +66,12 @@ public class exp1 : MonoBehaviour
 }
 ```
 ## Output:
-![](./o1.png)
 
-![](./o2.png)
+![o1](https://github.com/Javith-farkhan/Rotating-the-Gaming-Object/assets/94296805/8d1ff4d8-32e5-40b3-9e2f-f67bccab31e7)
+
+
+![o2](https://github.com/Javith-farkhan/Rotating-the-Gaming-Object/assets/94296805/ed545511-024f-4d2a-b306-5d98b46df97d)
+
+
 ## Result:
 Thus a 3D application for rotating the gaming objects in unity is developed successfully.
